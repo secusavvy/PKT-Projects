@@ -1,5 +1,5 @@
 # PKT-Projects
-This repository houses a collection of networking projects developed under the PKT-Projects initiative. Each project is designed to showcase practical implementations of networking concepts using Cisco Packet Tracer.
+This repository houses a collection of networking projects developed under the PKT-Projects initiative. Each project is designed to showcase practical implementations of networking concepts using Cisco Packet Tracer
 ## Projects Included:
 #### Project #1: Small Office Network Design
 <img src="https://raw.githubusercontent.com/0xknoty/PKT-Projects/main/Project%20%231/Project%20%231.png"></img>
